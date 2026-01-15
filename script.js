@@ -136,12 +136,4 @@ function shuffle(arr) {
 
 renderLeaderboard();
 fetchQuestions();
-## Advanced Quiz App
-- Dark / Light Mode
-- Real-time Timer
-- Open Trivia DB API
-- Persistent Leaderboard
-- Mobile-First Design
 
-### Live Demo
-🔗 https://yourusername.github.io/quiz-website
